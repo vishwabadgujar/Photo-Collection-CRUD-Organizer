@@ -67,3 +67,6 @@ The project relies only on the Python Standard Library:
 - os: For checking if the data file exists.
 
 - datetime: For handling date input and setting the current date.
+
+  # Author:
+  Vishwa Namdeo Badgujar
